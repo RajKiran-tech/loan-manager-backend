@@ -1,7 +1,4 @@
-cd path/to/loan-manager-backend
-git init
-git remote add origin https://github.com/<your-username>/loan-manager-backend.git
 git add .
-git commit -m
-git branch -M main
-git push -u origin main
+git commit -m "Initial backend setup"
+git push origin main
+
